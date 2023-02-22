@@ -2,3 +2,5 @@ some code for new branch test
 
 new code
 new code
+
+added test code for merging both branches
